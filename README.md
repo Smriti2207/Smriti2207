@@ -1,16 +1,19 @@
-### Hi there 👋
+ # <p align="center">Hey, I'm <a href="https://Smriti2207.github.io/profile/" target="_blank">Smriti Kumari!</a><img src="hi.gif" width="29px">
+</p>
 
-<!--
-**Smriti2207/Smriti2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center">
+  
+  
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to++my+GitHub+Profile!;Feel+free+to+Connect+with+me!;Thank+you!&font=Fira%20Code&center=true&width=380&height=50">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</p>
+
+## About Me 🚀
+
+- :woman_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology.
+
+- 📫 How to reach me 📧 **mandalsmriti43@gmail.com**
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smriti2207&theme=radical)
